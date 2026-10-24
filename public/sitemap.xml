@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Homepage Root -->
+  <url>
+    <loc>https://randaea.vercel.app/</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>عيادة د. راندا للتغذية العلاجية</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=home</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>عيادة د. راندا للتغذية الإكلينيكية والحميات العلاجية</image:title>
+    </image:image>
+  </url>
+
+  <!-- Top Google Search Specialized Nutrition Guides -->
+  <url>
+    <loc>https://randaea.vercel.app/?page=intermittent-fasting</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>جدول الصيام المتقطع للمبتدئين والنساء</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=insulin-resistance-diet</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>نظام غذائي لعلاج مقاومة الإنسولين</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=belly-fat-loss</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>كيفية التخلص من دهون البطن والكرش الهرموني</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=womens-hormones</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>تغذية المرأة وتكيس المبايض وخمول الغدة</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=weight-plateau</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>أسباب ثبات الوزن وطرق كسره</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=supplements-labs</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>التحاليل الطبية الشاملة والمكملات الغذائية</image:title>
+    </image:image>
+  </url>
+
+  <!-- Core Clinical Clinic Pages -->
+  <url>
+    <loc>https://randaea.vercel.app/?page=conditions</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>علاج الأمراض المزمنة والغذاء العلاجي</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=programs</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>برامج التغذية العلاجية المتخصصة</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=about</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>عن الدكتورة راندا استشاري التغذية العلاجية</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=success-stories</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>قصص نجاح وتحول صحي موثقة</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=calculators</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>حاسبات السعرات ومؤشر كتلة الجسم والوزن المثالي</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=recipes</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>وصفات المطبخ الصحي العلاجي المحسوبة السعرات</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=blog</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>الموسوعة والمقالات الطبية في التغذية الإكلينيكية</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=faq</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://randaea.vercel.app/?page=booking</loc>
+    <lastmod>2026-10-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://randaea.vercel.app/og-image.jpg</image:loc>
+      <image:title>حجز استشارة تغذية علاجية مع د. راندا</image:title>
+    </image:image>
+  </url>
+</urlset>

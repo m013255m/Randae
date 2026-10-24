@@ -1,0 +1,20 @@
+# Robots.txt for Dr. Randa Clinical Nutrition
+# Domain: https://randaea.vercel.app/
+User-agent: *
+Allow: /
+Allow: /?page=*
+
+# Googlebot specific directives
+User-agent: Googlebot
+Allow: /
+Allow: /?page=*
+
+# Googlebot Image directives
+User-agent: Googlebot-Image
+Allow: /assets/
+Allow: /og-image.jpg
+Allow: /favicon.png
+Allow: /apple-touch-icon.png
+
+Sitemap: https://randaea.vercel.app/sitemap.xml
+Host: randaea.vercel.app
